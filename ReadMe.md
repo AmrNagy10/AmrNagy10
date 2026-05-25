@@ -1,27 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Developing a Telegram bot using Python for remote access to and control of my personal computer.<br><br>👯 I’m looking to collaborate on<br>Tech-based projects involving Python, automation, or integrating AI into real-world applications.<br><br>🤝 I’m looking for help with<br>Improving my understanding of machine learning concepts and exploring advanced security techniques for my bot.<br><br>🌱 I’m currently learning<br>Statistical analysis, natural language processing (NLP), and best practices for backend development in Python.<br><br>💬 Ask me about<br>Binary arithmetic, Python scripting, or tips for setting up and troubleshooting Linux environments.<br><br>⚡ Fun fact<br>I once fixed a GRUB boot issue permanently after diving deep into Linux bootloader mechanics.
+## Amr Nagy
 
+```python
+const amr_nagy = {
+    pronouns: "He" | "Him",
+    code: ["Python", "C++", "HTML"],
+    askMeAbout: ["Software Development", "IoT Projects", "Open Source"],
+    technologies: {
+        backEnd: {
+            python: ["Django", "Flask"],
+        },
+        frontEnd: {
+            js: ["React", "Vue"],
+            css: ["Bootstrap", "Tailwind"]
+        },
+        databases: ["MySQL", "SQLite"],
+        misc: ["Git", "Ubuntu"]
+    },
+    currentFocus: "Exploring new technologies and contributing to impactful projects",
+    funFact: "Coding is my superpower!"
+};
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrnagy.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-nagy-2a2293243) [![X](https://img.shields.io/badge/X-%23E4405F.svg?logo=X&logoColor=white)](https://x.com/AmrNagyme?t=G_j2RxtQqSe4NZpGmqMbyw&s=09)
+## About Me
+I am a passionate Software Engineer with a strong background in Python development and a keen interest in IoT projects. As an active contributor to open-source projects, I thrive on leveraging technology to drive innovation and create solutions that make a difference.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmrNagy10&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmrNagy10&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNagy10&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Stats
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=AmrNagy10)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNagy10)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=AmrNagy10)](https://github.com/AmrNagy10)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=AmrNagy10)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmrNagy10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Skills & Interests
+- **Languages:** Python, C++, HTML
+- **Backend:** Django, Flask
+- **Frontend:** React, Vue
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, Ubuntu
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## Projects
+Here are some of my noteworthy projects:
+- [AquaMax](https://github.com/AmrNagy10/AquaMax) - AI-powered water quality analyzer
+- [Noxa](https://github.com/AmrNagy10/Noxa) - Utility for optimizing code efficiency
+- [paper_metal_detector](https://github.com/AmrNagy10/paper_metal_detector) - Innovative metal detection project
+- [sevenseg](https://github.com/AmrNagy10/sevenseg) - IoT project for displaying information
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmrNagy10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Contact Me
+- GitHub: [AmrNagy10](https://github.com/AmrNagy10)
+- LinkedIn: [Amr Nagy](#)
+
+## Conclusion
+With a strong focus on Python development and a passion for creating impactful projects, I bring a blend of expertise and creativity to each endeavor. Whether it's optimizing code efficiency or delving into innovative IoT projects, I am committed to pushing boundaries and leaving a mark in the tech industry.
+
+Looking forward to connecting and collaborating on exciting ventures! Let's code the future together. 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmrNagy10&icon=1&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*I am a student at Sinai University 2nd Level and ICPC Arish member. And an avid Ubuntu user.*
