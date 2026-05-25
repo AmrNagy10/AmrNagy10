@@ -4,10 +4,11 @@
 ### IoT · Embedded Systems · AI Integration · Python
 
 **Information Technology Student — Sinai University (2024–2028)**
+**GPA: 3.59 / 4.0**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagyamr270@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrNagy10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](‏linkedin.com/in/amr-nagy-2a2293243)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/amr-nagy-2a2293243)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
 </div>
@@ -139,8 +140,10 @@ Gained practical skills in sensor integration and microcontroller programming.
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmrNagy10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=AmrNagy10&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNagy10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+
 </div>
 
 ---
