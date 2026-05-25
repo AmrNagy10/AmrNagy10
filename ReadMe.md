@@ -1,10 +1,9 @@
 <div align="center">
 
-# Amr Mohammed Nagy
+# Amr M Nagy
 ### IoT · Embedded Systems · AI Integration · Python
 
 **Information Technology Student — Sinai University (2024–2028)**
-**GPA: 3.59 / 4.0**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagyamr270@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrNagy10)
@@ -142,7 +141,7 @@ Gained practical skills in sensor integration and microcontroller programming.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AmrNagy10&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNagy10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmrNagy10&theme=tokyonight" height="165" />
 
 </div>
 
